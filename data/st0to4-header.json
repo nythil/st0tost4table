@@ -1,0 +1,12 @@
+{
+  "name": "Stella 0-4",
+  "symbol": "st",
+  "data_url": "https://nythil.github.io/st0tost4table/data/st0to4-data.json",
+  "level_order": [
+    "0",
+    "1",
+    "2",
+    "3",
+    "4",
+  ]
+}
